@@ -1,0 +1,66 @@
+.cuerpo{
+   background-image: url("../imagenes/fondo.jpg");
+}
+.navegador ul li a{
+   color: black;
+   font-weight: bold;
+   font-family: 'Fredoka One',cursive;
+   
+}
+.navegador ul li a:hover{
+    color: black;
+    font-weight: 700;
+    background-color: #F36464;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    font-family: 'Nerko One', cursive;
+    border-bottom: white dashed 3px;
+}
+.carousel{
+    font-family: 'Fredoka One',cursive;
+}
+
+
+.texto{
+    font-family: 'Fredoka One',cursive;
+    text-align: center;
+}
+.titulo1{
+    font-family: 'Fredoka One',cursive;
+    font-weight: bold;
+}
+.parrafo{
+    font-family: 'Charm', cursive;
+}
+.boton{
+    background: #74D6E2;
+    display: flex;
+    color: white;
+    border-radius: 5px;
+}
+.botonprod{
+    background:#CBD0D0;
+    display: flex;
+    color: white;
+    justify-content: center;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 2px;
+    font-family: 'Fredoka One',cursive;
+}
+.titulo-prod{
+    font-family: 'Fredoka One',cursive;
+    font-weight: bold;
+    text-align: center;
+}
+.parrafo-prod{
+    text-align: center;
+}
+.carousel-caption{
+    background-color: rgba(0, 0,0, 0.7);
+    border-radius: 5px;
+}
+.imagen-prod{
+    justify-content: center;
+}
+
